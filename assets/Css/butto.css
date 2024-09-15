@@ -1,0 +1,9 @@
+
+.high-contrast {
+    background-color: black;
+    color: yellow;
+}
+
+.high-contrast a {
+    color: cyan;
+}
