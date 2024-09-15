@@ -1,0 +1,1 @@
+Esse site simples foi feito com CSS E JS como forma de um estudo sobre Design de Interação, para mostrar algumas ferramentas que possam ajudar pessoas com certa deficiência ou para pessoas que não tem intimidade com tecnologias do dia a dia 
